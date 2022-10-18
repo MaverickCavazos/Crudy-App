@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS crud_app_db;
+
+CREATE DATABASE crud_app_db;
